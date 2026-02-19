@@ -11,10 +11,10 @@ channels = [
     {"name": "tvOne", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TvOne_Logo_2011.svg/1200px-TvOne_Logo_2011.svg.png", "group": "TV Berita", "url": "http://202.80.222.20/cdn/iptv/Tvod/001/channel2000018/1024.m3u8"},
     
     # Trans Group & CNN butuh User-Agent agar bisa diputar di VLC/TiviMate
-    {"name": "Trans TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Trans_TV_logo.svg/1200px-Trans_TV_logo.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
-    {"name": "Trans 7", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRANS7.svg/1200px-TRANS7.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
-    {"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
-    {"name": "CNBC Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
+    {"name": "Trans TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Trans_TV_logo.svg/1200px-Trans_TV_logo.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8"},
+    {"name": "Trans 7", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRANS7.svg/1200px-TRANS7.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8"},
+    {"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8"},
+    {"name": "CNBC Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"},
     
     {"name": "Kompas TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kompas_TV_logo_2017.svg/1200px-Kompas_TV_logo_2017.svg.png", "group": "TV Berita", "url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8"},
     {"name": "RRI NET", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RRI_NET.svg/1200px-RRI_NET.svg.png", "group": "Radio Visual", "url": "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"},
