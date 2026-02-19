@@ -10,7 +10,7 @@ https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agent=Mozil
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRANS7.svg/1200px-TRANS7.svg.png" group-title="TV Nasional", Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="TV Berita", CNN Indonesia
-{"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
+{"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Chrome/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"},
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png" group-title="TV Berita", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kompas_TV_logo_2017.svg/1200px-Kompas_TV_logo_2017.svg.png" group-title="TV Berita", Kompas TV
