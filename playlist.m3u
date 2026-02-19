@@ -21,7 +21,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_o
 ISI_URL_STREAMING_DARI_SNIFFER
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/RRI_Pro_2.svg/1200px-RRI_Pro_2.svg.png" group-title="Radio", RRI Pro 2 FM 92.5
 ISI_URL_STREAMING_DARI_SNIFFER
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/RRI_Pro_3.svg/1200px-RRI_Pro_3.svg.png" group-title="Radio", RRI Pro 3 - KBRN - FM 88.8
+#EXTINF:-1 tvg-logo="https://rri.co.id/assets_frontend/images/pro3_rri.png" group-title="Radio", RRI Pro 3 - KBRN - FM 88.8
 https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/RRI_Pro_4.svg/1200px-RRI_Pro_4.svg.png" group-title="Radio", RRI Pro 4 FM 88.5
 ISI_URL_STREAMING_DARI_SNIFFER
