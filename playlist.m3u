@@ -27,5 +27,5 @@ https://stream-node0.rri.co.id/streaming/14/9014/kbrn.mp3
 ISI_URL_STREAMING_DARI_SNIFFER
 #EXTINF:-1 tvg-logo="https://elshinta.com/images/logo.png?v=1" group-title="Radio", Elshinta
 https://stream-ssl.arenastreaming.com:8000/jakarta
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TvOne_Logo_2011.svg/1200px-TvOne_Logo_2011.svg.png" group-title="TV Berita", tvOne 	
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TvOne_Logo_2011.svg/1200px-TvOne_Logo_2011.svg.png" group-title="TV Berita", tvOne 1
 https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8|User-Agent=Mozilla/5.0
