@@ -13,7 +13,7 @@ channels = [
     # Trans Group & CNN butuh User-Agent agar bisa diputar di VLC/TiviMate
     {"name": "Trans TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Trans_TV_logo.svg/1200px-Trans_TV_logo.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
     {"name": "Trans 7", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TRANS7.svg/1200px-TRANS7.svg.png", "group": "TV Nasional", "url": "https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
-    {"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
+    {"name": "CNN Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=vlc/3.0.11"},
     {"name": "CNBC Indonesia", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png", "group": "TV Berita", "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8|User-Agent=Mozilla/5.0"},
     
     {"name": "Kompas TV", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kompas_TV_logo_2017.svg/1200px-Kompas_TV_logo_2017.svg.png", "group": "TV Berita", "url": "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u|User-Agent=Mozilla/5.08"},
