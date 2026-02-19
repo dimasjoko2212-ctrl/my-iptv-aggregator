@@ -14,7 +14,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8|User-Agent=M
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_Indonesia.svg/1200px-CNBC_Indonesia.svg.png" group-title="TV Berita", CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kompas_TV_logo_2017.svg/1200px-Kompas_TV_logo_2017.svg.png" group-title="TV Berita", Kompas TV
-https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u|User-Agent=Mozilla/5.08
+https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RRI_NET.svg/1200px-RRI_NET.svg.png" group-title="Radio Visual", RRI NET
 https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/RRI_Pro_1.svg/1200px-RRI_Pro_1.svg.png" group-title="Radio", RRI Pro 1 FM 90.9
